@@ -1,0 +1,25 @@
+body {
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+#visualization {
+    width: 960px;
+    height: 600px;
+    margin: auto;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.annotation {
+    font-size: 13px;
+    font-weight: bold;
+    fill: darkred;
+}
